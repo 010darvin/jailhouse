@@ -304,3 +304,5 @@ References
 4. https://fossapc.hackpad.com/Jailhouse-on-Banana-Pi-with-FreeRTOS-as-Cell-EZaCw8OEynM
 5. https://embedded2015.hackpad.com/ep/pad/static/P8aM30iQ3hm
 6. https://paper.dropbox.com/doc/Banana-Pi-and-jailhouse-6CoZ4Cgyom22Gy3uH9g7e
+7. https://paper.dropbox.com/doc/banana-Pi-and-jailhause-7CoZ5Cgyom22Gy3uH9g7e
+8. 
